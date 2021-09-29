@@ -11,4 +11,4 @@ Tasks:
 6) Repreat the procedure from 3 to 5 while changing the vale of K.
 7)  Comment on your findings. 29 Multimedia Networking
 
-Note: when we change on the number of block we divided not always work dpened in the size of pic and the resize we use to make the pic suitable with n*n matrix for Zigzag function
+Note: when we change the number of block,not always work depends  on the size of pic and the resize we used to made the pic suitable with n*n matrix for Zigzag function
